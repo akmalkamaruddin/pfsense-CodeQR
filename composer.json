@@ -1,5 +1,1 @@
-{
-  "name": "akmalkamaruddin/pfsense-CodeQR",
-  "description": "Your project description here",
-  "require": {}
-}
+{ "name": "akmalkamaruddin/pfsense-codeqr", "description": "Your project description here", "require": {} }
