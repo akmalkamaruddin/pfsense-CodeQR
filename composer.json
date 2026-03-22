@@ -1,1 +1,4 @@
 { "name": "akmalkamaruddin/pfsense-codeqr", "description": "Your project description here", "require": {} }
+{
+    "license": "MIT"
+}
