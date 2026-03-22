@@ -1,1 +1,2 @@
-{ "name": "akmalkamaruddin/pfsense-codeqr", "description": "Your project description here", "require":{false}}, {"license": "MIT", "include-path": ["inc/"]}
+{ "name": "akmalkamaruddin/pfsense-codeqr", "description": "Your project description here", "require":{false}},
+{ "license": "MIT", "include-path": ["inc/"]}
